@@ -1,0 +1,12 @@
+@media screen and (max-width: 1000px) {
+    div {
+      background-image: url(../img/dawn.png);
+    }
+}
+
+@media screen and (max-width: 465px) {
+    div {
+      background-image: url(../img/maxresdefault.jpg);
+    }
+}
+
